@@ -1,0 +1,7 @@
+C:\Users\Sagar\source\repos\GitDemoProject\GitDemoProject\bin\Debug\GitDemoProject.exe.config
+C:\Users\Sagar\source\repos\GitDemoProject\GitDemoProject\bin\Debug\GitDemoProject.exe
+C:\Users\Sagar\source\repos\GitDemoProject\GitDemoProject\bin\Debug\GitDemoProject.pdb
+C:\Users\Sagar\source\repos\GitDemoProject\GitDemoProject\obj\Debug\GitDemoProject.csprojAssemblyReference.cache
+C:\Users\Sagar\source\repos\GitDemoProject\GitDemoProject\obj\Debug\GitDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\GitDemoProject\GitDemoProject\obj\Debug\GitDemoProject.exe
+C:\Users\Sagar\source\repos\GitDemoProject\GitDemoProject\obj\Debug\GitDemoProject.pdb
